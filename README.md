@@ -1,7 +1,7 @@
 ## ScreenShot
 
 <p align="center" >
-    <img alt="Meetup copycat" src="./Screenshot.jpg" height="500" width="273" />
+    <img alt="Meetup copycat" src="./video.mp4" height="500" width="273" />
  </a>
  <p align="center" >
     <img alt="Meetup copycat" src="./Screenshot1.jpg" height="500" width="273" />
