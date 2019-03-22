@@ -9,7 +9,7 @@
 
 ## Video
 
-- [Video]("./Screenshot.jpg")
+- [Video](http://sneakersmap.fr/img/meetup.gif)
 
 ## ✅ Functionalities
 
